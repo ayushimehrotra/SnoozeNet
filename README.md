@@ -1,6 +1,6 @@
 # SnoozeNet: Causality-Driven Transformers for Interpretable Sleep Stage Classification
 
-### This repository is still under construction. The code is NOT final. 
+### This repository is still under construction. 
 
 ## Environment
  - Python 3.10 
